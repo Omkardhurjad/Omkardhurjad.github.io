@@ -1,4 +1,4 @@
-# J U S T I C E    F O R   T H E   F U T U R E !!
+# JUSTICE FOR THE FUTURE !!
 # we help orphans to explore thier future path 
 # In the below link you can apppy for aadhar card : 
 https://uidai.gov.in/my-aadhaar/about-your-aadhaar/aadhaar-enrolment.html
