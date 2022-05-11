@@ -3,22 +3,19 @@
 
 ![the thing is necessary](https://www.cry.org/wp-content/uploads/bridge-the-education-gap.jpg)
 
-
-
-# we help orphans to explore thier future path 
-
-# [Click here to get your aadhar card](https://uidai.gov.in/).
+![the thing is necessary]( https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Thomas_Benjamin_Kennington_-_Orphans.jpg/420px-Thomas_Benjamin_Kennington_-_Orphans.jpg)
 
 
 
-
-
+## What we do ?
+we help orphans to explore thier future path.
 
 
 ## Features
 
 - Help raising funds
 - Maintain and apply for docments 
+-  [Click here to get your aadhar card](https://uidai.gov.in/).
 
 
 ## 🔗  Follow us / Support Us
