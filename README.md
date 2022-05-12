@@ -15,7 +15,7 @@
  > _**To make website for orphans guidance and cater thier needs**_
 
 
-## What we do ?
+## WHAT WE DO ?
 we help orphans to explore thier future path.
 
 
@@ -27,18 +27,18 @@ we help orphans to explore thier future path.
 - [Application form (Scholarship)](https://forms.gle/JntHh2D77E8AxJcC7).
 
 
-## 🔗  Follow us / Support Us
+## 🔗  FOLLOW US / SUPPORT US 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/om_5001_/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Why ? Watch this !!
+## WHY ? WATCH THIS !!
 
 [Eye Opener](https://youtu.be/f5mqlFPO_I8)
 
 
-## Acknowledgements
+## ACKNOWLEGEMENT
 
  - [Motivation](https://www.cry.org/)
  - [Need ](https://www.globalgiving.org/projects/help-an-orphan-in-india-receive-an-education/#:~:text=Poor%20or%20orphaned%20children%20are,be%20forced%20into%20bonded%20labor.)
