@@ -46,7 +46,7 @@ we help orphans to explore thier future path.
 
 ## ABOUT US
 
-We are Students currently persueing BE-IT. This website is the part of our PBL project. The motivation behind this project is to help the needy with our engineering knowledge and uplift the bond between `engineering society` and `social society`. 
+We are Students currently persueing BE-IT. This website is the part of our PBL project. The motivation behind this project is to help the needy with our engineering knowledge and uplift the bond between engineering society and social society. 
 
 
 
