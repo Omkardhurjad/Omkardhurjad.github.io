@@ -1,21 +1,32 @@
-#  **_JUSTICE FOR THE FUTURE !!_**
+#  **_WINGS TO THIER DREAMS !!_**
 
 
 ![the thing is necessary](https://www.cry.org/wp-content/uploads/bridge-the-education-gap.jpg)
 
 ![the thing is necessary]( https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Thomas_Benjamin_Kennington_-_Orphans.jpg/420px-Thomas_Benjamin_Kennington_-_Orphans.jpg)
 
+## VISION 
+
+-**_All we need is to build human relations with our deeds. That's only thing that lasts forever_** '
+
+
+## MISSION 
+
+_**To make website for orphans guidance and cater thier needs**_
 
 
 ## What we do ?
 we help orphans to explore thier future path.
 
 
-## Features
+## FEATURES
 
 - Help raising funds
 - Maintain and apply for docments 
--  [Click here to get your aadhar card](https://uidai.gov.in/).
+- [Click here to get your aadhar card](https://uidai.gov.in/).
+- [Application form (Scholarship)](https://uidai.gov.in/).
+- 
+-  
 
 
 ## 🔗  Follow us / Support Us
@@ -31,8 +42,12 @@ we help orphans to explore thier future path.
 
 ## Acknowledgements
 
- - [motivation](https://www.cry.org/)
- - [need ](https://www.globalgiving.org/projects/help-an-orphan-in-india-receive-an-education/#:~:text=Poor%20or%20orphaned%20children%20are,be%20forced%20into%20bonded%20labor.)
- - [help](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Motivation](https://www.cry.org/)
+ - [Need ](https://www.globalgiving.org/projects/help-an-orphan-in-india-receive-an-education/#:~:text=Poor%20or%20orphaned%20children%20are,be%20forced%20into%20bonded%20labor.)
+ - [Help](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+## ABOUT US 
+
+
 
 
