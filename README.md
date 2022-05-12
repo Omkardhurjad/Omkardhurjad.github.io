@@ -1,9 +1,9 @@
 #  **_WINGS TO THIER DREAMS !!_**
 
 
-![the thing is necessary](https://www.cry.org/wp-content/uploads/bridge-the-education-gap.jpg)
+![the thing is necessary](https://en-media.thebetterindia.com/uploads/2017/01/garima-5-1.jpg)
 
-![the thing is necessary]( https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Thomas_Benjamin_Kennington_-_Orphans.jpg/420px-Thomas_Benjamin_Kennington_-_Orphans.jpg)
+![the thing is necessary](https://cdn-benpo.nitrocdn.com/tAzdXLshBhKfEEMFyaqBLclxwChIpeXf/assets/static/optimized/rev-aaa7727/wp-content/uploads/2018/09/Untitled-design-7.png).
 
 ## VISION 
 
