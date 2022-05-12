@@ -7,12 +7,12 @@
 
 ## VISION 
 
--**_All we need is to build human relations with our deeds. That's only thing that lasts forever_** '
+> **_All we need is to build human relations with our deeds. That's only thing that lasts forever_** '
 
 
 ## MISSION 
 
-_**To make website for orphans guidance and cater thier needs**_
+ > **To make website for orphans guidance and cater thier needs**_
 
 
 ## What we do ?
@@ -25,8 +25,6 @@ we help orphans to explore thier future path.
 - Maintain and apply for docments 
 - [Click here to get your aadhar card](https://uidai.gov.in/).
 - [Application form (Scholarship)](https://uidai.gov.in/).
-- 
--  
 
 
 ## 🔗  Follow us / Support Us
@@ -46,7 +44,9 @@ we help orphans to explore thier future path.
  - [Need ](https://www.globalgiving.org/projects/help-an-orphan-in-india-receive-an-education/#:~:text=Poor%20or%20orphaned%20children%20are,be%20forced%20into%20bonded%20labor.)
  - [Help](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-## ABOUT US 
+## ABOUT US
+
+We are Students currently persueing BE-IT. This website is the part of our PBL project. The motivation behind this project is   
 
 
 
