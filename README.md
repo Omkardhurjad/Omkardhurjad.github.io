@@ -12,7 +12,7 @@
 
 ## MISSION 
 
- > _**To make website for orphans guidance and cater thier needs**_
+ > _**To make website for orphans guidance and cater their needs**_
 
 
 ## WHAT WE DO ?
