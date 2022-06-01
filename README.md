@@ -16,7 +16,7 @@
 
 
 ## WHAT WE DO ?
-we help orphans to explore thier future path.
+we help orphans to explore their future path.
 
 
 ## FEATURES
