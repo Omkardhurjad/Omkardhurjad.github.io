@@ -1,4 +1,4 @@
-####  **_WINGS TO THIER DREAMS !!_**
+####  **_WINGS TO THEIR DREAMS !!_**
 
 
 ![the thing is necessary](https://en-media.thebetterindia.com/uploads/2017/01/garima-5-1.jpg)
@@ -21,8 +21,8 @@ we help orphans to explore thier future path.
 
 ## FEATURES
 
-- Help raising funds
-- Maintain and apply for docments 
+- Help raising funds.
+- Maintain and apply for docments. 
 - [Click here to get your aadhar card](https://uidai.gov.in/).
 - [Application form (Scholarship)](https://forms.gle/JntHh2D77E8AxJcC7).
 
@@ -46,7 +46,7 @@ we help orphans to explore thier future path.
 
 ## ABOUT US
 
-We are Students currently persueing BE-IT. This website is the part of our PBL project. The motivation behind this project is to help the needy with our engineering knowledge and uplift the bond between engineering society and social society. 
+We are Students currently pursuing BE-IT. This website is the part of our PBL project. The motivation behind this project is to help the needy with our engineering knowledge and uplift the bond between engineering society and social society. 
 
 
 
